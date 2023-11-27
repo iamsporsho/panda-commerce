@@ -30,3 +30,32 @@
     color: #DF2F71;
 
 }
+
+.cat1, .cat2, .cat3{
+
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+
+    background-color: #E2BC23;
+    color: #fff;
+}
+
+.cat2{
+
+    background-color: #DC4884;
+    color: #fff;
+}
+
+.cat3{
+
+    background-color: #446FED;
+    color: #fff;
+}
+
+.categories img{
+
+    width: 150px;
+}
